@@ -1,1 +1,1 @@
-# CriticalCoding3
+# CC3: Exploring Machine Intelligence
